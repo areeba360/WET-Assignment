@@ -6,7 +6,7 @@ if (!isset($_SESSION['username'])) {
 }
 $items = [
     1 => ['name' => 'headphone', 'price' => 100, 'image' => 'images\headphone.jpg"],
-    2 => ['name' => 'smart watch', 'price' => 150, 'image' => 'images\smart watch.jpg'],
+    2 => ['name' => 'smartwatch', 'price' => 150, 'image' => 'images\smart watch.jpg'],
 ];
 if (isset($_GET['add'])) {
     $id = $_GET['add'];
