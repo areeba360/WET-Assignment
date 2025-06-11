@@ -32,7 +32,7 @@ This is a basic shopping cart system developed using **pure PHP** without any fr
 - **smartwatch.jpg**
   
 
-> All images represent tech products and are stored in the project root or `images/` folder.
+> All images represent tech products and are stored in the project root or `images/` .
 
 ---
 
